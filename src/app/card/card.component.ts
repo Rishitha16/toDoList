@@ -1,6 +1,5 @@
 import { Component, Input, OnInit} from '@angular/core';
 import { Task } from '../model';
-//import { MatCheckboxModule } from '@angular/material/checkbox';
 
 @Component({
   selector: 'app-card',
